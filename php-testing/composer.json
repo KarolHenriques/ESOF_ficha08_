@@ -1,0 +1,17 @@
+{
+    "name": "karolhenriques/esof_ficha08",
+    "require": {
+        "phpunit/phpunit": "^10.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Karolhenriques\\EsofFicha08\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Karol Henriques",
+            "email": "karoljares@gmail.com"
+        }
+    ]
+}
